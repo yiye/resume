@@ -16,7 +16,7 @@
 * **期望工作地点:**北京或南方各地
 
 ##目前知识体系
-![目前知识体系](knowledge.png)
+![目前知识体系](https://raw.github.com/yiye/resume/master/knowledge.png)
 
 ##比赛
 * Intel杯全国大学生软件开发大赛暨HTML5 开发邀请赛三等奖
